@@ -7,3 +7,5 @@ ptext github link: https://github.com/cosmologicon/pygame-text
 Creator: Vansh Chhabra
 Date: 8/30/2022
 Please give me credit if you plan on using this program and posting it somewhere
+
+This game is written using python. I use pygame for all graphics and ptext to display text on the screen.
